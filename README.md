@@ -125,3 +125,7 @@ Use this tool only on URLs that you are authorized to analyze.
 ## 🎯 Purpose
 
 This project is intended for **cybersecurity learning, phishing analysis, URL investigation, VAPT practice, and security research** in authorized environments.
+
+## AUTHOR
+
+Nikhil Kumar Pankaj
